@@ -1,6 +1,6 @@
 # elevenlabs-telco-brief
 
-Solutions Engineer business brief — ElevenLabs positioning for enterprise telco accounts, with Deutsche Telekom reference architecture and competitive battle card vs Genesys Cloud, Dialogflow CX, and Amazon Connect.
+Solutions Engineer business brief, ElevenLabs positioning for enterprise telco accounts, with Deutsche Telekom reference architecture and competitive battle card vs Genesys Cloud, Dialogflow CX, and Amazon Connect.
 
 ---
 
@@ -22,7 +22,7 @@ Solutions Engineer business brief — ElevenLabs positioning for enterprise telc
 
 Enterprise telco is one of the most commercially valuable and technically demanding segments for voice AI. Carriers run millions of interactions per week across multi-brand environments, with legacy STT accuracy problems, shallow native analytics, and high escalation rates from first-generation IVR bots.
 
-This brief was written to give AEs and SEs a single reference document for navigating telco opportunities — from the first discovery call through to technical evaluation. It's grounded in publicly announced customer deployments, independent benchmark data, and direct competitive analysis against the platforms telcos are most likely to already be running.
+This brief was written to give AEs and SEs a single reference document for navigating telco opportunities, from the first discovery call through to technical evaluation. It's grounded in publicly announced customer deployments, independent benchmark data, and direct competitive analysis against the platforms telcos are most likely to already be running.
 
 ---
 
