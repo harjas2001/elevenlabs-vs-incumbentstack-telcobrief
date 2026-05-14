@@ -1,7 +1,7 @@
 # ElevenLabs for Telco — Solutions Engineer Business Brief
 
 **Document type:** Internal SE reference · Customer-facing battle card  
-**Prepared by:** Harjas Gill — Solutions Engineer  
+**Prepared by:** Harjas Gill Conversational AI Specialist
 **Last updated:** May 2026  
 **Audience:** Account Executives · Sales leadership · Technical evaluators at telco prospects
 
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Telecommunications is one of the highest-stakes deployment environments for voice AI — millions of customer interactions per day, multi-brand complexity, strict compliance requirements, and a customer base that will abandon a call within seconds of a bad voice experience.
+Telecommunications is one of the highest-stakes deployment environments for voice AI,  millions of customer interactions per day, multi-brand complexity, strict compliance requirements, and a customer base that will abandon a call within seconds of a bad voice experience.
 
 This brief covers how ElevenLabs positions against incumbent contact centre platforms in enterprise telco, using Deutsche Telekom's production deployment as the primary reference architecture. It is intended as a working document for AEs approaching telco accounts and for SEs running technical discovery.
 
@@ -22,7 +22,7 @@ Before positioning ElevenLabs, align on the problems telcos actually have. These
 | Problem | What it looks like in practice |
 |---|---|
 | **Multi-brand voice fragmentation** | A carrier group running 3–5 brands (e.g. mobile, home internet, business) with separate voice agents, inconsistent experiences, no shared analytics |
-| **Legacy STT accuracy on domain vocabulary** | "Roaming," "eSIM," "data cap," "port-out" — carrier-specific terms that generic STT models mishandle, creating IVR loops |
+| **Legacy STT accuracy on domain vocabulary** | "Roaming," "eSIM," "data cap," "port-out", carrier-specific terms that generic STT models mishandle, creating IVR loops |
 | **Language barrier at scale** | Diverse customer bases that existing IVR systems can't serve without expensive multilingual flow builds |
 | **Shallow analytics** | Containment rate and AHT tracked manually or via bolt-on BI tools, not surfaced natively from the voice platform |
 | **Slow voice model updates** | Changing a TTS voice in Genesys Cloud or Cisco requires a config change + testing cycle + deployment, often touching multiple teams |
